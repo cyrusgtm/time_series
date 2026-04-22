@@ -1,0 +1,7 @@
+# Test environments
+cnn.py
+setup.py
+test.py
+
+# Database data
+*.db
