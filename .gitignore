@@ -5,3 +5,9 @@ test.py
 
 # Database data
 *.db
+
+
+# model weights 
+models/*.h5
+models/*.pt__pycache__/
+*.pyc
