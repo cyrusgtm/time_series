@@ -11,3 +11,6 @@ test.py
 models/*.h5
 models/*.pt__pycache__/
 *.pyc
+models/*.keras
+models/*.h5
+results/*.csv
